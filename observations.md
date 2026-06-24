@@ -80,3 +80,20 @@ Potential UI/UX issue / needs clarification with design specification.
 
 Notes:
 Error message correctly prevents login, but field-level validation may be misleading for the user.
+
+OBS-005
+
+Module:
+Checkout
+
+Scenario:
+Checkout with an empty shopping cart.
+
+Observation:
+The application allows users to complete the checkout process even when no products are present in the shopping cart.
+
+Expected Behavior:
+Unable to determine without business requirements.
+
+Recommendation:
+Verify expected checkout flow with Product Owner or functional specification before reporting as a defect.
