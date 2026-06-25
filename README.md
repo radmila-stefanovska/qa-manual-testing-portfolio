@@ -114,6 +114,34 @@ This portfolio will continue to grow with additional manual testing scenarios, A
 
 ---
 
+---
+
+# Screenshots
+
+## Login Validation
+
+Invalid username:
+
+![Invalid Username](screenshots/login-invalid-username.PNG)
+
+Password required:
+
+![Password Required](screenshots/login-empty-password.PNG)
+
+---
+
+## Sample Bug Report
+
+**Bug:** Checkout completed successfully with an empty shopping cart.
+
+**Step 1 – Empty shopping cart**
+
+![Empty Cart](screenshots/bug-002-empty-cart.png)
+
+**Step 2 – Order completed successfully**
+
+![Order Complete](screenshots/bug-002-order-complete.PNG)
+
 **Author**
 
 **Radmila Stefanovska**
